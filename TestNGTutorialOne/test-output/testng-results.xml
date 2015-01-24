@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="62" started-at="2015-01-24T14:56:27Z" finished-at="2015-01-24T14:56:27Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="62" started-at="2015-01-24T14:56:27Z" finished-at="2015-01-24T14:56:27Z">
+      <class name="logic.CalenderUtilTest">
+        <test-method status="PASS" signature="testGetTimeAddedDate(java.util.Calendar, java.util.Calendar)[pri:0, instance:logic.CalenderUtilTest@349955ab]" name="testGetTimeAddedDate" duration-ms="16" started-at="2015-01-24T20:26:27Z" data-provider="testGetTimeAddedDateDataProvider" finished-at="2015-01-24T20:26:27Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[java.util.GregorianCalendar[time=946738587764,areFieldsSet=true,areAllFieldsSet=true,lenient=true,zone=sun.util.calendar.ZoneInfo[id="Asia/Kolkata",offset=19800000,dstSavings=0,useDaylight=false,transitions=6,lastRule=null],firstDayOfWeek=1,minimalDaysInFirstWeek=1,ERA=1,YEAR=2000,MONTH=0,WEEK_OF_YEAR=1,WEEK_OF_MONTH=1,DAY_OF_MONTH=1,DAY_OF_YEAR=1,DAY_OF_WEEK=7,DAY_OF_WEEK_IN_MONTH=1,AM_PM=1,HOUR=8,HOUR_OF_DAY=20,MINUTE=26,SECOND=27,MILLISECOND=764,ZONE_OFFSET=19800000,DST_OFFSET=0]]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[java.util.GregorianCalendar[time=1422037800765,areFieldsSet=true,areAllFieldsSet=true,lenient=true,zone=sun.util.calendar.ZoneInfo[id="Asia/Kolkata",offset=19800000,dstSavings=0,useDaylight=false,transitions=6,lastRule=null],firstDayOfWeek=1,minimalDaysInFirstWeek=1,ERA=1,YEAR=2015,MONTH=0,WEEK_OF_YEAR=4,WEEK_OF_MONTH=4,DAY_OF_MONTH=24,DAY_OF_YEAR=24,DAY_OF_WEEK=7,DAY_OF_WEEK_IN_MONTH=4,AM_PM=0,HOUR=0,HOUR_OF_DAY=0,MINUTE=0,SECOND=0,MILLISECOND=765,ZONE_OFFSET=19800000,DST_OFFSET=0]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testGetTimeAddedDate -->
+        <test-method status="PASS" signature="testGetTimeAddedDate(java.util.Calendar, java.util.Calendar)[pri:0, instance:logic.CalenderUtilTest@349955ab]" name="testGetTimeAddedDate" duration-ms="2" started-at="2015-01-24T20:26:27Z" data-provider="testGetTimeAddedDateDataProvider" finished-at="2015-01-24T20:26:27Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[java.util.GregorianCalendar[time=1422111387765,areFieldsSet=true,areAllFieldsSet=true,lenient=true,zone=sun.util.calendar.ZoneInfo[id="Asia/Kolkata",offset=19800000,dstSavings=0,useDaylight=false,transitions=6,lastRule=null],firstDayOfWeek=1,minimalDaysInFirstWeek=1,ERA=1,YEAR=2015,MONTH=0,WEEK_OF_YEAR=4,WEEK_OF_MONTH=4,DAY_OF_MONTH=24,DAY_OF_YEAR=24,DAY_OF_WEEK=7,DAY_OF_WEEK_IN_MONTH=4,AM_PM=1,HOUR=8,HOUR_OF_DAY=20,MINUTE=26,SECOND=27,MILLISECOND=765,ZONE_OFFSET=19800000,DST_OFFSET=0]]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[java.util.GregorianCalendar[time=1422111387765,areFieldsSet=true,areAllFieldsSet=true,lenient=true,zone=sun.util.calendar.ZoneInfo[id="Asia/Kolkata",offset=19800000,dstSavings=0,useDaylight=false,transitions=6,lastRule=null],firstDayOfWeek=1,minimalDaysInFirstWeek=1,ERA=1,YEAR=2015,MONTH=0,WEEK_OF_YEAR=4,WEEK_OF_MONTH=4,DAY_OF_MONTH=24,DAY_OF_YEAR=24,DAY_OF_WEEK=7,DAY_OF_WEEK_IN_MONTH=4,AM_PM=1,HOUR=8,HOUR_OF_DAY=20,MINUTE=26,SECOND=27,MILLISECOND=765,ZONE_OFFSET=19800000,DST_OFFSET=0]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testGetTimeAddedDate -->
+        <test-method status="PASS" signature="testGetTimeAddedDate(java.util.Calendar, java.util.Calendar)[pri:0, instance:logic.CalenderUtilTest@349955ab]" name="testGetTimeAddedDate" duration-ms="2" started-at="2015-01-24T20:26:27Z" data-provider="testGetTimeAddedDateDataProvider" finished-at="2015-01-24T20:26:27Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[java.util.GregorianCalendar[time=1422111387765,areFieldsSet=true,areAllFieldsSet=true,lenient=true,zone=sun.util.calendar.ZoneInfo[id="Asia/Kolkata",offset=19800000,dstSavings=0,useDaylight=false,transitions=6,lastRule=null],firstDayOfWeek=1,minimalDaysInFirstWeek=1,ERA=1,YEAR=2015,MONTH=0,WEEK_OF_YEAR=4,WEEK_OF_MONTH=4,DAY_OF_MONTH=24,DAY_OF_YEAR=24,DAY_OF_WEEK=7,DAY_OF_WEEK_IN_MONTH=4,AM_PM=1,HOUR=8,HOUR_OF_DAY=20,MINUTE=26,SECOND=27,MILLISECOND=765,ZONE_OFFSET=19800000,DST_OFFSET=0]]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[java.util.GregorianCalendar[time=1422111387765,areFieldsSet=true,areAllFieldsSet=true,lenient=true,zone=sun.util.calendar.ZoneInfo[id="Asia/Kolkata",offset=19800000,dstSavings=0,useDaylight=false,transitions=6,lastRule=null],firstDayOfWeek=1,minimalDaysInFirstWeek=1,ERA=1,YEAR=2015,MONTH=0,WEEK_OF_YEAR=4,WEEK_OF_MONTH=4,DAY_OF_MONTH=24,DAY_OF_YEAR=24,DAY_OF_WEEK=7,DAY_OF_WEEK_IN_MONTH=4,AM_PM=1,HOUR=8,HOUR_OF_DAY=20,MINUTE=26,SECOND=27,MILLISECOND=765,ZONE_OFFSET=19800000,DST_OFFSET=0]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testGetTimeAddedDate -->
+      </class> <!-- logic.CalenderUtilTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
